@@ -1,0 +1,22 @@
+{
+  "name": "event-booking-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baovietkentech/event-booking-e2e.git"
+  },
+  "author": "Bao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baovietkentech/event-booking-e2e/issues"
+  },
+  "homepage": "https://github.com/baovietkentech/event-booking-e2e#readme",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  }
+}
